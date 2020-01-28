@@ -1,0 +1,5 @@
+Soal:
+
+Buatlah Kalkulator dengan menggunakan Setter & Getter seperti 
+pada tugas penjumlahan kemarin. Dari tugas kemarin di mana
+hanya ada penjumlahan, tambahkan operasi tambah kurang, kali dan bagi di classs Kalkulator
